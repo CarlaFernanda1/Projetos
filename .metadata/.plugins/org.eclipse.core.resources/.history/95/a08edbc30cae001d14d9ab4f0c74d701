@@ -1,0 +1,15 @@
+package atv5;
+
+public class Secundario {
+	public static String parouimpar ( int numero) {
+		String situacao;
+		
+		if (numero%2 == 0) {
+			situacao = "par";
+		} else {
+			situacao = "impar";
+		}
+		
+		re
+	}
+}
